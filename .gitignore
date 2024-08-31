@@ -1,0 +1,3 @@
+*.local
+_pycache_
+venv
